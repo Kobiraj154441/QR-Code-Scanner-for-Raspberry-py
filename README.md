@@ -3,3 +3,6 @@ Simple and Easy code in python for Raspberry Pi to detect QR-Code. Here Simple w
 Requirements: 
 1. Raspberry pi
 2. Webcam
+3. OpenCV2
+4. zbarlight
+5. Numpy
